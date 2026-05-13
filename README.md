@@ -50,7 +50,7 @@ We don't just write code. We **architect solutions** that scale.
 - 🔥 Notable clients: **HBL · ARY**
 - 🤖 AI-first development approach
 - 🚀 From MVP to production — we own the full lifecycle
-- 💡 Currently building: **Mukhlis** (Privacy-first document recovery) · **Nexora Technologies** · **Webify**
+- 💡 Currently building: **POS Cloud** (SaaS POS for Pakistani businesses) · **Mukhlis** (Privacy-first document recovery) · **Nexora Technologies** · **Webify**
 
 <br/>
 
@@ -94,6 +94,7 @@ We don't just write code. We **architect solutions** that scale.
 
 | Project | Description | Stack | Status |
 |:--------|:------------|:------|:------:|
+| [☁️ **POS Cloud**](https://poscloud-cx.web.app) | Cloud-based Point of Sale for Pakistani small businesses · Inventory, receipts, sales & tax tracking · Free to start | React 18 · Firebase · PWA | 🟢 Live |
 | [🔒 **Mukhlis**](https://immukhlis.web.app) | Privacy-first lost document recovery platform for Pakistan · AES-256 encrypted | React 18 · Firebase · Cloud Functions | 🟢 Live |
 | [🏭 **wool-mes**](https://github.com/techpeer-pk/wool-mes) | Manufacturing Execution System for Wool-to-Garment production | JavaScript · Firebase | 🔵 Active |
 | [📦 **sims**](https://github.com/techpeer-pk/sims) | Complete inventory & sales management for candle manufacturing | PHP · MySQL · Bootstrap 5 | 🔵 Active |
@@ -125,6 +126,10 @@ We don't just write code. We **architect solutions** that scale.
 ## 🌱 Currently Building
 
 ```yaml
+POS Cloud (poscloud-cx.web.app):
+  status: "Live · SEO & organic growth phase"
+  next: "Pro plan billing · Staff accounts · Barcode scanner"
+
 Mukhlis (immukhlis.web.app):
   status: "Post-launch · Partnership outreach active"
   next: "Condigno integration · LinkedIn content wave"
