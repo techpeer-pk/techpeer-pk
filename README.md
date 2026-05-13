@@ -96,9 +96,9 @@ We don't just write code. We **architect solutions** that scale.
 |:--------|:------------|:------|:------:|
 | [☁️ **POS Cloud**](https://poscloud-cx.web.app) | Cloud-based Point of Sale for Pakistani small businesses · Inventory, receipts, sales & tax tracking · Free to start | React 18 · Firebase · PWA | 🟢 Live |
 | [🔒 **Mukhlis**](https://immukhlis.web.app) | Privacy-first lost document recovery platform for Pakistan · AES-256 encrypted | React 18 · Firebase · Cloud Functions | 🟢 Live |
+| [🏥 **medibook**](https://medibook-pk.web.app/) | Book appointments with top specialists — fast, simple, available | JavaScript · Firebase | 🟢 Live |
 | [🏭 **wool-mes**](https://github.com/techpeer-pk/wool-mes) | Manufacturing Execution System for Wool-to-Garment production | JavaScript · Firebase | 🔵 Active |
 | [📦 **sims**](https://github.com/techpeer-pk/sims) | Complete inventory & sales management for candle manufacturing | PHP · MySQL · Bootstrap 5 | 🔵 Active |
-| [🏥 **medibook**](https://github.com/techpeer-pk/medibook) | Book appointments with top specialists — fast, simple, available | JavaScript · Firebase | 🔵 Active |
 | [📊 **pdf2excel**](https://github.com/techpeer-pk/pdf2excel) | PDF to Excel converter utility | HTML · Python | 🔵 Active |
 | [🛒 **orsys-v2**](https://github.com/techpeer-pk/orsys-v2) | Order & resource management system v2 | TypeScript · Firebase | 🔵 Active |
 
